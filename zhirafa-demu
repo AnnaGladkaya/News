@@ -1,4 +1,14 @@
- <b>Харьковском</b> зоопарке рассказали, куда поселили жирафа <b>Дему</b>.
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    В <b>Харьковском</b> зоопарке рассказали, куда поселили жирафа <b>Дему</b>.
 </p>
 <p>
   <i>1 июня</i> в <b>Харьков</b> приехал из <b>Одессы</b> <i>10-месячный</i> жираф <b>Дема</b>. Его поселили в двухэтажном доме площадью <i>816</i> квадратных метров, расположенном в зоне <b>"Африканская саванна"</b>. Об этом сообщили в <b>Харьковском</b> зоопарке.
@@ -17,3 +27,6 @@
 </ol>
 </p>
 <a href = "https://2day.kh.ua/ru/kharkow/v-kharkovskom-zooparke-rasskazali-kuda-poselili-zhirafa-demu">Ссылка на сайт </a>
+</body>
+
+</html>
